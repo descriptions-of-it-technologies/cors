@@ -1,1 +1,28 @@
-# cors
+# Cross-Origin Resource Sharing. CORS.
+
+
+
+
+
+## Contents at a Glance.
+* [About.](#about)
+* [Documentation.](#documentation)
+* [Help.](#help)
+
+
+
+
+
+## About.
+
+
+
+
+
+## Documentation.
+
+
+
+
+
+## Help.
